@@ -1,6 +1,6 @@
 (function() {
-  const API = "http://127.0.0.1:7071/api";
-  const KEY = "";
+  const API = "https://tailwind-traders-14888.azurewebsites.net/api";
+  const KEY = "H1X0KFy1WSmrC/0QfJAVsEUCT4Jw4oS2MMoruSubxL/O55Acqox5Hg==";
 
   // axios defaults
   axios.defaults.headers.common["x-functions-key"] = KEY;
